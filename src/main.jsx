@@ -7,5 +7,5 @@ createRoot(document.getElementById('root')).render(
 	<StrictMode>
   		<p align="center" align="center" style="color=blue;" > Welcome to Green Gatherings. We coming soon </p>
 		<App />
-	</StrictMode>
+	</StrictMode>,
 )
