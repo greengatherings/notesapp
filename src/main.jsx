@@ -4,5 +4,8 @@ import './index.css'
 import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <p align="center" align="center" style="color=blue;" > Welcome to Green Gatherings. We coming soon </p>
+	<StrictMode>
+  		<p align="center" align="center" style="color=blue;" > Welcome to Green Gatherings. We coming soon </p>
+		<App />
+	</StrictMode>
 )
