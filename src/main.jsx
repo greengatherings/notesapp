@@ -5,7 +5,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
 	<StrictMode>
-  		<p align="center" align="center" > Welcome to Green Gatherings. We coming soon </p>
+  		<h1 align="center"> Welcome to Green Gatherings. We coming soon </h1>
 		<App />
 	</StrictMode>,
 )
